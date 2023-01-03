@@ -1,8 +1,19 @@
 .dodger-blue{
   color:dodgerblue;
 }
+
 body{
   font-family: sans-serif;
   color: #777777;
   line-height: 26px;
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+}
+
+.side-img{
+    width: 50%;
+    padding-left: 25%;
 }
