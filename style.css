@@ -34,3 +34,10 @@ h1{
     padding-left: 5%;
     display: inline-block;
 }
+
+.experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
