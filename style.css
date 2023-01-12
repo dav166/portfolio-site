@@ -30,7 +30,7 @@ h1{/*Create h1 tag; add font-size: 1.95em */
     font-size: 1.95em;
 }
 
-.container{
+.container{/*Create .container class; add padding-left: 5%, add display: inline-block"*/
     padding-left: 5%;
     display: inline-block;
 }
