@@ -1,15 +1,14 @@
-.dodger-blue{
+.dodger-blue{/*Create class named .dodger-blue to apply color to name in website*/
   color:dodgerblue;
 }
-/*Create class named .dodger-blue to apply to name in website*/
 
-body{
+body{/*Create body tag; add font-family style, color style, and line-height style*/
   font-family: sans-serif;
   color: #777777;
   line-height: 26px;
 }
-/*Create body tag; add font-family style, color style, and line-height style*/
-.half-width{
+
+.half-width{/*Create class named .half-width; add width:50%, and float: left*/
     width: 50%;
     float: left;
 }
