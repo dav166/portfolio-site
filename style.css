@@ -13,7 +13,7 @@ body{/*Create body tag; add font-family style, color style, and line-height styl
     float: left;
 }
 
-.side-img{
+.side-img{/*Create class named .side-img; add width: 50%, add padding-left: 25%*/
     width: 50%;
     padding-left: 25%;
 }
