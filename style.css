@@ -1,10 +1,10 @@
-.blue-color{/*Create class named .blue-color to apply color to name in website */
-  color:dodgerblue;
-}
 body{/*Create body tag; add font-family style, color style, and line-height style */
-  font-family: sans-serif;
-  color: #777777;
-  line-height: 26px;
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 26px;
+}
+.blue-color{/*Create class named .blue-color to apply color to name in website */
+    color:dodgerblue;
 }
 .half-width{/*Create class named .half-width; add width:50%, and float: left */
     width: 50%;
@@ -28,7 +28,7 @@ h1{/*Create h1 tag; add font-size: 1.95em */
     padding-left: 5%;
     display: inline-block;
 }
-.experience{/*Create .experience class; Add padding, add margin, add background color, and add border-radius */
+.experiences{/*Create .experiences class; Add padding, add margin, add background color, and add border-radius */
     padding: 30px;
     margin: 30px;
     background-color: rgb(238, 251, 255);
