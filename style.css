@@ -14,11 +14,11 @@ body{/*Create body tag; add font-family style, color style, and line-height styl
 }
 
 .side-img{/*Create class named .side-img; add width: 50%, add padding-left: 25%*/
-    width: 50%;
+    width: 50%; 
     padding-left: 25%;
 }
 
-.primary-btn{
+.primary-btn{/*Create .primary-btn class; add white text, add background color, add padding, and add border-radius style*/
     color: white;
     background-color: #e16347;
     padding: 13px 42px 13px 42px;
