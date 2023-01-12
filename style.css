@@ -1,23 +1,19 @@
 .blue-color{/*Create class named .blue-color to apply color to name in website */
   color:dodgerblue;
 }
-
 body{/*Create body tag; add font-family style, color style, and line-height style */
   font-family: sans-serif;
   color: #777777;
   line-height: 26px;
 }
-
 .half-width{/*Create class named .half-width; add width:50%, and float: left */
     width: 50%;
     float: left;
 }
-
 .side-img{/*Create class named .side-img; add width: 50%, add padding-left: 25% */
     width: 50%; 
     padding-left: 25%;
 }
-
 .primary-btn{/*Create .primary-btn class; add white text, add background color, add padding, and add border-radius style */
     color: white;
     background-color: #e16347;
@@ -25,19 +21,20 @@ body{/*Create body tag; add font-family style, color style, and line-height styl
     border-radius: 20px;
     text-decoration: none; /*Remove underline from anchored text in button */
 }
-
 h1{/*Create h1 tag; add font-size: 1.95em */
     font-size: 1.95em;
 }
-
 .container{/*Create .container class; add padding-left: 5%, add display: inline-block */
     padding-left: 5%;
     display: inline-block;
 }
-
 .experience{/*Create .experience class; Add padding, add margin, add background color, and add border-radius */
     padding: 30px;
     margin: 30px;
     background-color: rgb(238, 251, 255);
     border-radius: 20px;
+}
+.experience-item{/*Create .experience-item class; Add padding, add border-left */
+    padding: 10px;
+    border-left: 1px solid rgba(137,130,247,.2);
 }
