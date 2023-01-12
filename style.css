@@ -30,12 +30,12 @@ h1{/*Create h1 tag; add font-size: 1.95em */
     font-size: 1.95em;
 }
 
-.container{/*Create .container class; add padding-left: 5%, add display: inline-block"*/
+.container{/*Create .container class; add padding-left: 5%, add display: inline-block */
     padding-left: 5%;
     display: inline-block;
 }
 
-.experience{
+.experience{/*Create .experience class; Add padding, add margin, add background color, and add border-radius */
     padding: 30px;
     margin: 30px;
     background-color: rgb(238, 251, 255);
